@@ -1,7 +1,7 @@
 {
-  "posts": [
-    "basculeId": "1"
-  ],
+  "posts": [{
+    "basculeId" : "1"
+  }],
   "comments": [
   ],
   "profile": {
